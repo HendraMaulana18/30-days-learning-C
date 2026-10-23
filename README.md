@@ -1,7 +1,7 @@
 # 30 Days Learning C
 <hr>
 
-### 13/30 Days Learning C
+### 14/30 Days Learning C
 
 
 
@@ -10,9 +10,9 @@
 
 ## Progress Belajar
 
-**13 dari 30 hari** 
+**14 dari 30 hari** 
 
-`███████░░░░░░░░░░░░░` **43%**
+`███████░░░░░░░░░░░░░` **46%**
 
 ## Yang Dipelajari
 
